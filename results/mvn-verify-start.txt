@@ -6,7 +6,6 @@
 [[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
 [[1;34mINFO[m] 
 [[1;34mINFO[m] [1m--- [0;32mclean:3.2.0:clean[m [1m(default-clean)[m @ [36mlab11-pit[0;1m ---[m
-[[1;34mINFO[m] Deleting /home/debain13/Lab11-Gobi-Bagsh/starter/lab11-pit/target
 [[1;34mINFO[m] 
 [[1;34mINFO[m] [1m--- [0;32mjacoco:0.8.12:prepare-agent[m [1m(default)[m @ [36mlab11-pit[0;1m ---[m
 [[1;34mINFO[m] argLine set to -javaagent:/home/debain13/.m2/repository/org/jacoco/org.jacoco.agent/0.8.12/org.jacoco.agent-0.8.12-runtime.jar=destfile=/home/debain13/Lab11-Gobi-Bagsh/starter/lab11-pit/target/jacoco.exec
@@ -32,7 +31,7 @@
 [[1;34mINFO[m]  T E S T S
 [[1;34mINFO[m] -------------------------------------------------------
 [[1;34mINFO[m] Running mn.edu.must.sqat.[1mScholarshipCalculatorTest[m
-[[1;34mINFO[m] [1;32mTests run: [0;1;32m6[m, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.081 s -- in mn.edu.must.sqat.[1mScholarshipCalculatorTest[m
+[[1;34mINFO[m] [1;32mTests run: [0;1;32m6[m, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.074 s -- in mn.edu.must.sqat.[1mScholarshipCalculatorTest[m
 [[1;34mINFO[m] 
 [[1;34mINFO[m] Results:
 [[1;34mINFO[m] 
@@ -48,6 +47,6 @@
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
 [[1;34mINFO[m] [1;32mBUILD SUCCESS[m
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
-[[1;34mINFO[m] Total time:  2.372 s
-[[1;34mINFO[m] Finished at: 2026-11-27T12:31:55+08:00
+[[1;34mINFO[m] Total time:  2.206 s
+[[1;34mINFO[m] Finished at: 2026-11-27T13:27:41+08:00
 [[1;34mINFO[m] [1m------------------------------------------------------------------------[m
